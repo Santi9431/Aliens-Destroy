@@ -302,7 +302,7 @@ def show_instructions():
         "2. Presiona la barra espaciadora para disparar.",
         "3. Evita los asteroides para sobrevivir.",
         "4. Gana puntos al destruir asteroides.",
-        "5. Presiona X para regresar al menu",
+        "5. Para regresar al menú, cierra la ventana",
         "6. ¡Diviértete!",
     ]
 
